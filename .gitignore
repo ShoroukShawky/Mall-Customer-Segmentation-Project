@@ -1,0 +1,6 @@
+venv/
+myfirstproject/
+Lib/
+site-packages/
+__pycache__/
+*.pyc
